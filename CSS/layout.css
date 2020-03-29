@@ -1,0 +1,79 @@
+@media screen and  (min-width: 768px){
+    body{
+        height: 768px;
+        width: 960px;
+        
+    }
+    #a{
+        width: 960px;
+        height: 100px;
+        
+        float: left;
+    }
+    
+    
+    #b{
+        width: 200px;
+        height: 600px;
+        
+        float: left;
+    }
+    .cd{
+        width: 380px;
+        height: 200px;
+        
+        float: left;
+    }
+    .efgh{
+        width: 190px;
+        height: 250px;
+        
+        float: left;
+    }
+    #i{
+        width: 760px;
+        height: 150px;
+        
+        float: left;
+    }
+    }
+    
+    @media screen and  (max-width: 767px){
+        body{
+            height: 767px;
+            width: 480px;
+            
+        }
+        
+        #a{
+            
+            width: 480px;
+            height: 75px;
+            
+            
+        }
+        #b{
+            width: 480px;
+            height: 150px;
+            
+            float: left;
+        }
+        .cd{
+            width: 480px;
+            height: 125px;
+            
+            float: left;
+        }
+        .efgh{
+            width: 240px;
+            height: 250px;
+            
+            float: left;
+        }
+        #i{
+            width: 480px;
+            height: 80px;
+            
+            float: left;
+        }
+        }

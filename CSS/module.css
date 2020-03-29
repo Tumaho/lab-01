@@ -1,0 +1,60 @@
+@media screen and  (min-width: 768px){
+    
+    #a{
+        
+        background-color: silver;
+       
+    }
+    
+    #b{
+        
+        background-color: silver;
+    }
+    .cd{
+       
+        background-color: silver;
+        
+    }
+    .efgh{
+       
+        background-color: silver;
+        
+    }
+    #i{
+        
+        background-color: silver;
+       
+    }
+    }
+    
+    @media screen and  (max-width: 767px){
+        
+        
+        #a{
+            
+           
+            background-color: aqua;
+            
+            
+        }
+        #b{
+            
+            background-color: aqua;
+            
+        }
+        .cd{
+            
+            background-color: aqua;
+            
+        }
+        .efgh{
+           
+            background-color: aqua;
+            
+        }
+        #i{
+            
+            background-color: aqua;
+           
+        }
+        }
