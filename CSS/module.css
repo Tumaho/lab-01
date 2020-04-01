@@ -1,4 +1,4 @@
-@media screen and  (min-width: 768px){
+@media screen and  (min-width: 1000px){
     
     #a{
         
@@ -26,8 +26,35 @@
        
     }
     }
+
+@media screen and  (max-width: 999px ) and (min-width:768px){
+#a{
+        
+    background-color: tomato;
+   
+}
+
+#b{
     
-    @media screen and  (max-width: 767px){
+    background-color: tomato;
+}
+.cd{
+   
+    background-color: tomato;
+    
+}
+.efgh{
+   
+    background-color: tomato;
+    
+}
+#i{
+    
+    background-color: tomato;
+   
+}}
+    
+@media screen and  (max-width: 767px){
         
         
         #a{

@@ -1,4 +1,4 @@
-@media screen and  (min-width: 768px){
+@media screen and  (min-width: 1000px){
     body{
         margin: auto;
     }
@@ -35,6 +35,43 @@
         
     }
     }
+    @media screen and  (max-width: 999px ) and (min-width:768px){
+        body{
+            margin: auto;
+        }
+        #a{
+           
+            border: 1px solid black;
+            box-sizing: border-box;
+            
+        }
+        
+        
+        #b{
+            
+            border: 1px solid black;
+            box-sizing: border-box;
+            
+        }
+        .cd{
+            
+            border: 1px solid black;
+            box-sizing: border-box;
+            
+        }
+        .efgh{
+            
+            border: 1px solid black;
+            box-sizing: border-box;
+            
+        }
+        #i{
+            
+            border: 1px solid black;
+            box-sizing: border-box;
+            
+        }
+        }
     
     @media screen and  (max-width: 767px){
         body{
